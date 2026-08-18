@@ -7,4 +7,4 @@ Mi principio: **eth = ethics**. Código limpio, trato honesto y paginas que ayud
 
 📧 Contáctame: eliezer.dev.code@gmail.com
 
-> "Learning in [public, building with puepose."
+> "Learning in [public, building with purpose."
